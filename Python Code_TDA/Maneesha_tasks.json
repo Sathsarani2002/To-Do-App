@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Wake up at 7.00 AM",
+        "priority": "High",
+        "due_date": "2025-12-20",
+        "category": "Daily routine",
+        "status": "Completed"
+    },
+    {
+        "name": "Create notes for ERPS",
+        "priority": "High",
+        "due_date": "2025-12-20",
+        "category": "Study",
+        "status": "Completed"
+    },
+    {
+        "name": "Read 20 pages of a novel",
+        "priority": "Low",
+        "due_date": "2025-12-20",
+        "category": "Study",
+        "status": "Completed"
+    },
+    {
+        "name": "Make a strawberry macha",
+        "priority": "Low",
+        "due_date": "2025-12-20",
+        "category": "Tea time",
+        "status": "Completed"
+    }
+]

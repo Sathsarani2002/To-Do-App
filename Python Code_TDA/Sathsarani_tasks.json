@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Wake Up",
+        "priority": "High",
+        "due_date": "2025-12-22",
+        "category": "Daily Routine",
+        "status": "Completed"
+    }
+]
